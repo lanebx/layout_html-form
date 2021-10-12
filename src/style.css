@@ -1,1 +1,20 @@
 /* styles go here */
+.input-area {
+  margin-bottom: 10px;
+}
+
+.input-area:last-child {
+  margin-bottom: 0;
+}
+
+.fieldset-area {
+  margin-bottom: 20px;
+}
+
+fieldset:last-of-type {
+  margin-bottom: 0;
+}
+
+.button-submit {
+  margin-top: 20px;
+}
