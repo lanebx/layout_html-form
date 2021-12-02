@@ -1,9 +1,6 @@
 # HTML form
-Replace `<your_account>` with your Github username and copy the links to Pull Request description:
 - [DEMO LINK](https://lanebx.github.io/layout_html-form/)
 - [TEST REPORT LINK](https://lanebx.github.io/layout_html-form/report/html_report/)
-
-> Follow [this instructions](https://github.com/mate-academy/layout_task-guideline#how-to-solve-the-layout-tasks-on-github)
 ___
 
 ## The task:
@@ -44,11 +41,3 @@ Create HTML page with form. On form submit send form data to `https://mate-acade
 - Vertical distance between inputs should be `10px`
 - Vertical distance between blocks with inputs should be `20px`
 - Any other styles should be browser default
-
---> Don't forget to proofread your code using [CHECKLIST](https://github.com/mate-academy/layout_html-form/blob/master/checklist.md)
-
-## Tips & Hints
-1. You can group different input sections with [fieldset](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/fieldset) tag
-2. Make sure you have `method` and `action` attributes for form specified correctly
-3. Add `onsubmit="onSubmit()"` to form tag, not to button. It doesn’t work correctly on buttons.
-4. Follow the [code style guide](https://mate-academy.github.io/style-guides/htmlcss.html)
